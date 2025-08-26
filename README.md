@@ -25,6 +25,8 @@ I'm a Lead Senior Watson at [Sherlock](https://www.sherlock.xyz/), specializing 
 | 2025.4 | Pashov Audit Group	 | [Space and Time](http://spaceandtime.io/) | Bridge, Staking, Payment				 		   | :--:	  	|
 | 2025.5 | Pashov Audit Group	 | [77bit](https://77-bit.com/) | ERC-1155				 		   | :--:	  	|
 | 2025.5 | Pashov Audit Group	 | [Tanssi](https://www.tanssi.network/) | Bridge, Symbiotic				 		   | :--:	  	|
+| 2025.7 | Sherlock collab	 | [Drake exchange](https://drake.exchange/) | Perp, Exchange				 		   | :--:	  	|
+| 2025.8 | Pashov Audit Group	 | [RAAC](https://raac.io/) | Lending, RWA				 		   | :--:	  	|
 
 ## Judging Experience
 
