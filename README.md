@@ -31,6 +31,7 @@ I'm a Lead Senior Watson at [Sherlock](https://www.sherlock.xyz/), specializing 
 | 2025.9 | Sherlock collab	 | [Fungible Future](https://drake.exchange/) | Launchpad 				 		   | :--:	  	|
 | 2025.11 | Sherlock collab	 | [Levr](https://drake.exchange/) | Governance 				 		   | :--:	  	|
 | 2025.11 | Sherlock collab	 | [Saga SSC](https://saga.xyz/) | Cosmos SDK, L1 				 		   | :--:	  	|
+| 2025.12 | Sherlock collab	 | [Clique](https://docs.clique.tech/clique-wallet/getting-started/for-users) | Solana, Token Distributor 				 		   | :--:	  	|
 
 
 ## Judging Experience
