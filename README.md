@@ -33,6 +33,8 @@ I'm a Lead Senior Watson at [Sherlock](https://www.sherlock.xyz/), specializing 
 | 2025.11 | Sherlock collab	 | [Saga SSC](https://saga.xyz/) | Cosmos SDK, L1 				 		   | :--:	  	|
 | 2025.12 | Sherlock collab	 | [Clique](https://docs.clique.tech/clique-wallet/getting-started/for-users) | Solana, Token Distributor 				 		   | :--:	  	|
 | 2026.1 | Sherlock collab	 | [Drake exchange](https://drake.exchange/) | Perp, Exchange				 		   | :--:	  	|
+| 2026.2 | FailSafe	 | [Rujira](https://rujira.network/) | CosmWasm, Orderbook, AMM				 		   | :--:	  	|
+| 2026.3 | Sherlock collab	 | [Figure Markets](https://www.figuremarkets.com/) | Stablecoin				 		   | :--:	  	|
 
 
 ## Judging Experience
