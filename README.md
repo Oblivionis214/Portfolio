@@ -12,6 +12,8 @@ I'm a Lead Senior Watson at [Sherlock](https://www.sherlock.xyz/), specializing 
 | 2024.8  | Sherlock  	| [Winnables Raffles](https://audits.sherlock.xyz/contests/516)                         		| Gamefi				| 🥈		|
 | 2024.8  | Sherlock  	| [Perennial V2 Update #3](https://audits.sherlock.xyz/contests/518)                         		| Perpetual 				| 🥈		|
 | 2025.2  | Cantina  	| [dahlia-protocol](https://cantina.xyz/competitions/691ce303-f137-437a-bf34-aef87dfe983b)                         		| Lending 				| #4		|
+| 2026.2  | Sherlock  	| [Hotstuff](https://audits.sherlock.xyz/contests/1233)                         		| Bridge				| 🥈		|
+| 2026.2  | Sherlock  	| [Flying Tulip](https://audits.sherlock.xyz/contests/1223)                         		| DeFi				| #6		|
 
 
 
