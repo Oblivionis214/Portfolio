@@ -35,8 +35,10 @@ I'm a Lead Senior Watson at [Sherlock](https://www.sherlock.xyz/), specializing 
 | 2025.11 | Sherlock collab	 | [Saga SSC](https://saga.xyz/) | Cosmos SDK, L1 				 		   | :--:	  	|
 | 2025.12 | Sherlock collab	 | [Clique](https://docs.clique.tech/clique-wallet/getting-started/for-users) | Solana, Token Distributor 				 		   | :--:	  	|
 | 2026.1 | Sherlock collab	 | [Drake exchange](https://drake.exchange/) | Perp, Exchange				 		   | :--:	  	|
-| 2026.2 | FailSafe	 | [Rujira](https://rujira.network/) | CosmWasm, Orderbook, AMM				 		   | :--:	  	|
-| 2026.3 | Sherlock collab	 | [Figure Markets](https://www.figuremarkets.com/) | Stablecoin				 		   | :--:	  	|
+| 2026.2 | FailSafe	 | [Rujira brune](https://rujira.network/) | CosmWasm, Orderbook, AMM, LSD				 		   | :--:	  	|
+| 2026.3 | FailSafe	 | [Rujira fin](https://rujira.network/) | CosmWasm, Orderbook, AMM				 		   | :--:	  	|
+| 2026.3 | FailSafe	 | [Virtuals protocol update](https://www.virtuals.io/) | Payment, Launchpad				 		   | :--:	  	|
+| 2026.3 | Sherlock collab	 | [Figure market update](https://www.figuremarkets.com/) | Stablecoin				 		   | :--:	  	|
 
 
 ## Judging Experience
@@ -49,4 +51,3 @@ I'm a Lead Senior Watson at [Sherlock](https://www.sherlock.xyz/), specializing 
 | 2025.3 | Sherlock | [SEDA Protocol](https://audits.sherlock.xyz/contests/729) 		  | Go, Rust, Solidity |
 | 2025.3 | Sherlock | [ZetaChain Cross-Chain](https://audits.sherlock.xyz/contests/857) 		  | Go, Rust, Solidity, Move, FunC |
 | 2025.3 | Sherlock | [Ethereum Fusaka Upgrade](https://audits.sherlock.xyz/contests/1140) 		  | Go, Rust, Java, C++ |
-
